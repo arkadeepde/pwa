@@ -1,0 +1,17 @@
+body{
+    background-color: #dadada;
+}
+
+h1{
+    font-style: italic;
+    color: brown;
+}
+
+a{
+    color: brown;
+    text-decoration:none;
+}
+a:hover{
+    color: #de6464;
+    text-decoration:underline;
+}
